@@ -1,0 +1,2 @@
+# ripper
+Bulk downloader script
