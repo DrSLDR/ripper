@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# coding=utf8
 
 """
 ripper - Batch downloader script
